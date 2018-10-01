@@ -1,0 +1,8 @@
+{
+  "name": "mishorarios",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "333cbab1"
+}
